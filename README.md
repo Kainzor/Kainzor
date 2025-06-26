@@ -12,7 +12,7 @@ Right now, I’m focused on studying for the CompTIA A+ certification to build a
  - CompTIA Networking+
  - Cisco CCNA
 
-<b>This is not a strict goal, but it is what I am currently focusing on.</b>
+<b>This is not a strict goal, but it is what I am currently working on.</b>
 
 <h2>👨‍💻 My Projects</h2>
 
