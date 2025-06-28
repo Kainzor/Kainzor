@@ -20,7 +20,8 @@ Right now, I’m focused on studying for the CompTIA A+ certification to build a
      - [Terraform](https://github.com/Kainzor/Self-study/tree/main/Terraform)
  - <b>CompTIA</b>
      - [A+](https://github.com/Kainzor/Self-study/tree/main/A%2B) Work in progress
- - <b>Linux</b> Soon™
+ - <b>Linux</b> 
+     - [Ubuntu](https://github.com/Kainzor/Self-study/tree/main/Linux) Work in progress
  - <b>Python</b> Soon™
  - <b>Powershell</b> Soon™
 <h2>👨‍💻 My Certifications</h2>
