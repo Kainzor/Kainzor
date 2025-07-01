@@ -7,6 +7,8 @@ This portfolio is my way of documenting my learning journey and everything from 
 
 Right now, I’m focused on studying for the CompTIA A+ certification to build a solid understanding of how devices work. Though I already have a very good understanding the main focus on the study is the networking part where I want to improve on. I’m also diving my toe into Linux and Python to improve my technical skills related to it and expand my knowledge and experience.
 
+
+
 🌠 Goals 🌠
  - CompTIA A+
  - CompTIA Networking+
@@ -24,6 +26,8 @@ Right now, I’m focused on studying for the CompTIA A+ certification to build a
      - [Ubuntu](https://github.com/Kainzor/Self-study/tree/main/Linux) Work in progress
  - <b>Python</b> Soon™
  - <b>Powershell</b> Soon™
+ - <b>Raspberry Pi</b>
+     - [RaspberryPi](https://github.com/Kainzor/Self-study/tree/main/Raspberry%20Pi)
 <h2>👨‍💻 My Certifications</h2>
 
  - <b>Microsoft</b>
