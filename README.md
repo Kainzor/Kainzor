@@ -5,19 +5,21 @@ Hey there! I'll be updating this space regularly whenever there’s something ne
 
 This portfolio is my way of documenting my learning journey and everything from study notes and progress updates to certifications I’ve earned and goals I’m working towards.
 
-Right now, I’m focused on studying for the CompTIA A+ certification to build a solid understanding of how devices work. Though I already have a very good understanding the main focus on the study is the networking part where I want to improve on. I’m also diving my toe into Linux and Python to improve my technical skills related to it and expand my knowledge and experience.
+Right now, I’m focused on studying for the CCNA certification to build a solid understanding on networking fundementals. I’m also tipping my toe into Linux to improve my technical skills related to it and expand my knowledge and experience.
 
 
 
 🌠 Goals 🌠
- - CompTIA A+
- - CompTIA Networking+
  - Cisco CCNA
 
 <b>This is not a strict goal, but it is what I am currently working on.</b>
 
 <h2>👨‍💻 My Projects</h2>
-
+ 
+ - <b>Cisco</b>
+     - [CCNA] Soon™
+ - <b>Windows Server</b>
+     - [Windows Server](https://github.com/Kainzor/Self-study/tree/main/Windows%20Server)
  - <b>Hashicorp</b>
      - [Terraform](https://github.com/Kainzor/Self-study/tree/main/Terraform)
  - <b>CompTIA</b>
@@ -28,6 +30,7 @@ Right now, I’m focused on studying for the CompTIA A+ certification to build a
  - <b>Powershell</b> Soon™
  - <b>Raspberry Pi</b>
      - [RaspberryPi](https://github.com/Kainzor/Self-study/tree/main/Raspberry%20Pi)
+
 <h2>👨‍💻 My Certifications</h2>
 
  - <b>Microsoft</b>
