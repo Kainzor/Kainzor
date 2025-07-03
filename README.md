@@ -17,18 +17,18 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
 <h2>👨‍💻 My Projects</h2>
  
  - <b>Cisco</b>
-     - [CCNA] Soon™
+     - [CCNA] Study in progress
      - [Cisco Packet Tracer](https://github.com/Kainzor/Self-study/tree/main/Cisco%20Packet%20Tracer)
  - <b>Windows Server</b>
      - [Windows Server](https://github.com/Kainzor/Self-study/tree/main/Windows%20Server)
  - <b>Hashicorp</b>
      - [Terraform](https://github.com/Kainzor/Self-study/tree/main/Terraform)
  - <b>CompTIA</b>
-     - [A+](https://github.com/Kainzor/Self-study/tree/main/A%2B) Work in progress
+     - [A+](https://github.com/Kainzor/Self-study/tree/main/A%2B)
  - <b>Linux</b> 
-     - [Ubuntu](https://github.com/Kainzor/Self-study/tree/main/Linux) Work in progress
- - <b>Python</b> Soon™
- - <b>Powershell</b> Soon™
+     - [Ubuntu](https://github.com/Kainzor/Self-study/tree/main/Linux)
+ - <b>Python</b>
+ - <b>Powershell</b> 
  - <b>Raspberry Pi</b>
      - [RaspberryPi](https://github.com/Kainzor/Self-study/tree/main/Raspberry%20Pi)
 
