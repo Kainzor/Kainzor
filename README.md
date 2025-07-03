@@ -12,7 +12,7 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
 🌠 Goals 🌠
  - Cisco CCNA
 
-<b>While CCNA is my current focus, the goal is not set in stone. I might focus on something more fitting depending on my current situation which can lead to things chanigng. But for now, I want to have a even better Networking knowledge and CCNA provides me a great understanding on how Networking works</b>
+<b>While CCNA is my current focus, the goal is not set in stone. I might focus on something more fitting depending on my current situation which can lead to things changing. But for now, I want to have a better Networking knowledge and CCNA provides me a great understanding on how Networking works</b>
 
 <h2>👨‍💻 My Projects</h2>
  
