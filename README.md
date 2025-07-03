@@ -17,6 +17,7 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
 <h2>👨‍💻 My Projects</h2>
  
  - <b>Cisco</b>
+     - [Cisco Packet Tracer](https://github.com/Kainzor/Self-study/tree/main/Cisco%20Packet%20Tracer)
      - [CCNA] Soon™
  - <b>Windows Server</b>
      - [Windows Server](https://github.com/Kainzor/Self-study/tree/main/Windows%20Server)
