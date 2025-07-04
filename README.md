@@ -1,9 +1,17 @@
 <h1>Hi, I'm Sigfus and welcome to my new Portfolio!<br/>
 
-<h2>Status</h2> 
 Hey there! I'll be updating this space regularly whenever there’s something new to share.
-
 This portfolio is my way of documenting my learning journey and everything from study notes and progress updates to certifications I’ve earned and goals I’m working towards.
+
+<h1>About me</h1>
+
+I have been passionate about computers since childhood, and my interest in Azure-related solutions has only grown more over time.
+
+I have a strong affection for creating and building things, which is why I see myself thriving in a DevOps environment. With a few years of experience in User & Endpoint support, I have gained valuable experience and knowledge in handling customer issues, as well as working with AD/Entra/Intune.
+
+Currently I aspire to become a DevOps engineer or a Infrastructure Engineer but I am also beginning to tip my toe and try out other new things, currently I am working on CCNA to expand my knowledge in Networking and as well self-studying Linux.
+
+<h2>Status</h2> 
 
 Right now, I’m focused on studying for the CCNA certification to build a solid understanding on networking fundementals. I’m also tipping my toe into Linux to improve my technical skills related to it and expand my knowledge and experience.
 
