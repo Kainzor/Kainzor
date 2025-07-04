@@ -6,11 +6,9 @@ This portfolio is my way of documenting my learning journey and everything from 
 
 <h2>About me</h2>
 
-I have been passionate about computers since childhood, and my interest in Azure-related solutions has only grown more over time.
+I have been passionate about computers since childhood, I have a strong affection for creating and building things which is why I see myself thriving in a DevOps environment. With a few years of experience in User & Endpoint support, I have gained valuable experience and knowledge in handling customer issues, as well as working with AD/Entra/Intune.
 
-I have a strong affection for creating and building things, which is why I see myself thriving in a DevOps environment. With a few years of experience in User & Endpoint support, I have gained valuable experience and knowledge in handling customer issues, as well as working with AD/Entra/Intune.
-
-Currently I aspire to become a DevOps engineer or a Infrastructure Engineer but I am also beginning to tip my toe and try out other new things, currently I am working on CCNA to expand my knowledge in Networking and as well self-studying Linux.
+Currently I aspire to become a DevOps engineer or a Infrastructure Engineer but I am also beginning to tip my toe and try out other new things, currently I am working on CCNA to expand my knowledge into Networking and as well trying out Linux.
 
 <h2>Status</h2> 
 
