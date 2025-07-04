@@ -15,7 +15,7 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
 <b>While CCNA is my current focus, the goal is not set in stone. I might focus on something more fitting depending on my current situation which can lead to things changing. But for now, I want to have a better Networking knowledge and CCNA provides me a great understanding on how Networking works</b>
 
 
-<h1>About me<br/>
+<h1>About me</h1>
 
 I have been passionate about computers since childhood, and my interest in Azure-related solutions has only grown more over time.
 
