@@ -1,6 +1,7 @@
 <h1>Hi, I'm Sigfus and welcome to my new Portfolio!</h1>
 
-Hey there! I'll be updating this space regularly whenever there’s something new to share.<br>
+Hey there! I'll be updating this space regularly whenever there’s something new to share.
+
 This portfolio is my way of documenting my learning journey and everything from study notes and progress updates to certifications I’ve earned and goals I’m working towards.
 
 <h1>About me</h1>
