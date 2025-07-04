@@ -4,7 +4,7 @@ Hey there! I'll be updating this space regularly whenever there’s something ne
 
 This portfolio is my way of documenting my learning journey and everything from study notes and progress updates to certifications I’ve earned and goals I’m working towards.
 
-<h1>About me</h1>
+<h2>About me</h2>
 
 I have been passionate about computers since childhood, and my interest in Azure-related solutions has only grown more over time.
 
