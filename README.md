@@ -14,8 +14,6 @@ Currently I aspire to become a DevOps engineer or a Infrastructure Engineer but 
 
 Right now, I’m focused on studying for the CCNA certification to build a solid understanding on networking fundementals. I’m also tipping my toe into Linux to improve my technical skills related to it and expand my knowledge and experience.
 
-As we speak, I'm away for few weeks and will be back after 1st of august.
-
 🌠 Goals 🌠
  - Cisco CCNA
 
