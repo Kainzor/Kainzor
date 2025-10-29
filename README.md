@@ -24,7 +24,6 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
  - <b>Unity</b>
     - [My 2D RPG]() (Work in progress)
     - [Unity practices]() (Work in progress)
-
  - <b>C#</b>
  - <b>Cisco</b>
      - [CCNA](https://github.com/Kainzor/Self-study/tree/main/CCNA)
