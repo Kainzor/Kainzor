@@ -21,8 +21,13 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
 
 <h2>👨‍💻 My Projects</h2>
  
+ - <b>Unity</b>
+    - [My 2D RPG]() (Work in progress)
+    - [Unity practices]() (Work in progress)
+
+ - <b>C#</b>
  - <b>Cisco</b>
-     - [CCNA](https://github.com/Kainzor/Self-study/tree/main/CCNA) (Current study in progress)
+     - [CCNA](https://github.com/Kainzor/Self-study/tree/main/CCNA)
      - [Cisco Packet Tracer](https://github.com/Kainzor/Self-study/tree/main/Cisco%20Packet%20Tracer)
  - <b>Windows Server</b>
      - [Windows Server](https://github.com/Kainzor/Self-study/tree/main/Windows%20Server)
