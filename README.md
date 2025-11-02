@@ -4,20 +4,6 @@ Hey there! I'll be updating this space regularly whenever there’s something ne
 
 This portfolio is my way of documenting my learning journey and everything from study notes and progress updates to certifications I’ve earned and goals I’m working towards.
 
-<h2>About me</h2>
-
-I have been passionate about computers since childhood, I have a strong affection for creating and building things which is why I see myself thriving in a DevOps environment. With a few years of experience in User & Endpoint support, I have gained valuable experience and knowledge in handling customer issues, as well as working with AD/Entra/Intune.
-
-Currently I aspire to become a DevOps engineer or a Infrastructure Engineer but I am also beginning to tip my toe and try out other new things, currently I am working on CCNA to expand my knowledge into Networking and as well trying out Linux.
-
-<h2>Status</h2> 
-
-Right now, I’m focused on studying for the CCNA certification to build a solid understanding on networking fundementals. I’m also tipping my toe into Linux to improve my technical skills related to it and expand my knowledge and experience.
-
-🌠 Goals 🌠
- - Cisco CCNA
-
-<b>While CCNA is my current focus, the goal is not set in stone. I might focus on something more fitting depending on my current situation which can lead to things changing. But for now, I want to have a better Networking knowledge and CCNA provides me a great understanding on how Networking works</b>
 
 <h2>👨‍💻 My Projects</h2>
  
