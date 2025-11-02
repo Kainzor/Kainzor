@@ -33,7 +33,7 @@ This portfolio is my way of documenting my learning journey and everything from 
 
      - [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-us/Sigfus-3241/4C181FE90158850F?sharingId=F2F211E9DDE5B71B)
      - [Microsoft Certified: Microsoft 365 Identity and Services (MS-100)](https://www.credly.com/badges/3a83eb4b-39e0-47bc-930d-999e2ff6a620/linked_in_profile)
-     - [Microsoft Certified: Microsoft 365 Security Administration (MS-500)](https://www.credly.com/badges/3a83eb4b-39e0-47bc-930d-999e2ff6a620/linked_in_profile) (Expired)
+     - [Microsoft Certified: Microsoft 365 Security Administration (MS-500)](https://www.credly.com/badges/3a83eb4b-39e0-47bc-930d-999e2ff6a620/linked_in_profile)
  - <b>Hashicorp</b>
      - [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/7fd52e05-01cc-4316-96c5-33b7460d460f/public_url)
 
