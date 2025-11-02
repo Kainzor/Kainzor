@@ -22,7 +22,7 @@ Right now, I’m focused on studying for the CCNA certification to build a solid
 <h2>👨‍💻 My Projects</h2>
  
  - <b>Unity</b>
-    - [My 2D RPG]() (Work in progress)
+    - [My 2D RPG](https://github.com/Kainzor/Self-study/tree/main/Unity/My%20work/2d%20RPG) (Work in progress)
     - [Unity practices](https://github.com/Kainzor/Self-study/tree/main/Unity) (Work in progress)
  - <b>C#</b>
  - <b>Cisco</b>
