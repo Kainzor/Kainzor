@@ -9,7 +9,7 @@ This portfolio is my way of documenting my learning journey and everything from 
  
  - <b>Unity</b>
     - [My Unity works](https://github.com/Kainzor/Self-study/tree/main/Unity/My%20work/) (Work in progress)
-    - [Unity practices](https://github.com/Kainzor/Self-study/tree/main/Unity) (Work in progress)
+    - [Unity practices](https://github.com/Kainzor/Self-study/tree/main/Unity)
  - <b>C#</b>
  - <b>Cisco</b>
      - [CCNA](https://github.com/Kainzor/Self-study/tree/main/CCNA)
