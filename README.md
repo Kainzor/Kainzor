@@ -8,7 +8,8 @@ This portfolio is my way of documenting my learning journey and everything from 
 <h2>👨‍💻 My Projects</h2>
  
  - <b>Unity</b>
-    - [My Unity works](https://github.com/Kainzor/Self-study/tree/main/Unity/My%20work/) (Work in progress)
+    - [Space 3d game](https://github.com/Kainzor/Self-study/tree/main/Unity/My%20work/3d%20Space%20game) (Work in progress)
+    - [My Unity works](https://github.com/Kainzor/Self-study/tree/main/Unity/My%20work/)
     - [Unity practices](https://github.com/Kainzor/Self-study/tree/main/Unity)
  - <b>C#</b>
  - <b>Cisco</b>
