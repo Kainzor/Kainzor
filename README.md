@@ -5,10 +5,6 @@ Hey there! I'll be updating this space regularly whenever there’s something ne
 
 <h2>👨‍💻 My Projects</h2>
  
- As of now 20/11/25 I am taking a small break on my 3d game and trying to challenge my self by participating in my first game jam that is being hosted by Game Makers Iceland. I am excited to try to challenge my self, I honestly haven't completely finished a game before so this is going to be something that drives me to do so!
-
- I plan on making a Devlog (if my recording is good enough) and I will probably for sure add my game in here when I finish it!
- The event is until 4th of december so I'll be back around that time!
 
  - <b>Unity</b>
     - [Space 3d game](https://github.com/Kainzor/Self-study/tree/main/Unity/My%20work/3d%20Space%20game) (Work in progress)
